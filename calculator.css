@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(45, 47, 54, 0.7)),url(photography6.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.text-danger{
+    text-align: center;
+    font-family: Adobe Devanagari;
+    margin-bottom: 50px;
+}
+.container{
+    text-align: center;
+    margin-top: 100px;
+}
+.container h1{
+    font-size: 70px;
+}
+.container p{
+    font-size: 23px;
+    color: aqua;
+
+}
+.btn:hover{
+    transform: scale(1.3);
+}
+input:hover{
+    transform: scale(1.3);
+}
